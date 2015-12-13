@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_scripts\PlayerCollider.cs">
+    <Files>
+      <File FileName="Assets\_scripts\PlayerCollider.cs" Line="36" Column="1" />
+      <File FileName="Assets\_scripts\EnemyController.cs" Line="1" Column="1" />
+      <File FileName="Assets\_scripts\MineController.cs" Line="1" Column="1" />
+      <File FileName="Assets\_scripts\PortalToLevel2.cs" Line="1" Column="1" />
+      <File FileName="Assets\_scripts\PortalToLevel3.cs" Line="1" Column="1" />
+      <File FileName="Assets\_scripts\HideObject2.js" Line="11" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
